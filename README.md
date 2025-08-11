@@ -69,7 +69,10 @@ Personal Posts:
 
 Admin Only:
 
-<img width="1920" height="1080" alt="Screenshot (2400)" src="https://github.com/user-attachments/assets/ce9df98c-5fb0-4671-8e1e-325f8e8c57b5" />
+<img width="1920" height="1080" alt="Screenshot (2398)" src="https://github.com/user-attachments/assets/ab27d832-9e34-42ed-8d3d-63a9c829c7d9" />
+
+<img width="1920" height="1080" alt="Screenshot (2399)" src="https://github.com/user-attachments/assets/fcc064ea-c2eb-4f55-b380-0190627e6444" />
+
 
 
 
