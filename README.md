@@ -44,4 +44,12 @@ The platform includes role-based access control (**Admin** & **User**) and vario
 - **bcrypt** for password hashing.
 - **CORS** for secure API communication.
 
+Preview:-
+LOGIN:
+<img width="1920" height="1080" alt="Screenshot (2393)" src="https://github.com/user-attachments/assets/5d2a9d52-d191-4f80-aeae-02545f51a10c" />
+
+SIGNUP:
+<img width="1920" height="1080" alt="Screenshot (2392)" src="https://github.com/user-attachments/assets/ac2cd8f7-baad-4b19-813f-2453a4e5f88d" />
+
+
 
