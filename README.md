@@ -51,5 +51,31 @@ LOGIN:
 SIGNUP:
 <img width="1920" height="1080" alt="Screenshot (2392)" src="https://github.com/user-attachments/assets/ac2cd8f7-baad-4b19-813f-2453a4e5f88d" />
 
+HOME PAGE:(SignIn not required)
+
+<img width="1920" height="1080" alt="Screenshot (2395)" src="https://github.com/user-attachments/assets/a099f7d8-05ee-48c0-b53d-60cc7c01cc91" />
+
+Post Details page:
+
+<img width="1920" height="1080" alt="Screenshot (2394)" src="https://github.com/user-attachments/assets/a4ef8104-4274-4549-b860-6d824fe24984" />
+
+Profile page:
+
+<img width="1920" height="1080" alt="Screenshot (2401)" src="https://github.com/user-attachments/assets/33ce0d81-6159-4caa-93bd-35bb4db3bcb8" />
+
+Personal Posts:
+
+<img width="1920" height="1080" alt="Screenshot (2396)" src="https://github.com/user-attachments/assets/b25aabde-7c8c-46e5-9277-dde3ca5e9d33" />
+
+Admin Only:
+
+<img width="1920" height="1080" alt="Screenshot (2400)" src="https://github.com/user-attachments/assets/ce9df98c-5fb0-4671-8e1e-325f8e8c57b5" />
+
+
+
+
+
+
+
 
 
